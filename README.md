@@ -13,8 +13,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
@@ -47,8 +45,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ME0WGE/ME0WGE/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--START_SECTION:waka-->
