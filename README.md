@@ -43,7 +43,7 @@
 
 <br clear="both">
 <a href="https://wakatime.com/@0c2f7862-9823-4099-98a5-9f50e857da53"><img src="https://wakatime.com/badge/user/0c2f7862-9823-4099-98a5-9f50e857da53.svg" alt="Total time coded since Apr 1 2025" /></a>
-###
+
 <!--START_SECTION:waka-->
 
 ```txt
