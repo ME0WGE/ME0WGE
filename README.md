@@ -67,8 +67,8 @@ Markdown     38 mins         ▒░░░░░░░░░░░░░░░░
 ### 🐱 Programming Partner
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" height="160" alt="Programming Cat" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="160" alt="Typing Cat" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="160" height="160" alt="Programming Cat" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" height="160" alt="Typing Cat" />
 </div>
 
 ### 🤝 Connect With Me
