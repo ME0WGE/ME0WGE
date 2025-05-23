@@ -1,51 +1,49 @@
-<h2 align="center">HI :v</h2>
+<div align="center">
+  
+# 👋 Welcome to my universe, I'm Kamil!
 
-###
+Frontend Developer | Expanding to Backend | Linux User
 
-<br clear="both">
+_Passionate about web technologies, crafting beautiful and functional applications one line of code at a time_ ✨
+
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ME0WGE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ME0WGE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ME0WGE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ME0WGE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
-###
+### 🛠️ Technologies & Tools
 
-<br clear="both">
+<div align="center">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <!-- Frontend -->
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![JSX](https://img.shields.io/badge/-JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  <!-- Styling -->
+  ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+  <!-- Development Environment -->
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
 </div>
 
-###
+### ⏱️ Coding Stats
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kamil-baldyga/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<div align="center">
 
-###
-
-<br clear="both">
-<a href="https://wakatime.com/@0c2f7862-9823-4099-98a5-9f50e857da53"><img src="https://wakatime.com/badge/user/0c2f7862-9823-4099-98a5-9f50e857da53.svg" alt="Total time coded since Apr 1 2025" /></a>
-
-<!--START_SECTION:waka-->
-
+<!-- Weekly Breakdown -->
 ```txt
 JavaScript   16 hrs 24 mins  ████████████▒░░░░░░░░░░░░   49.06 %
 CSS          12 hrs 37 mins  █████████▒░░░░░░░░░░░░░░░   37.74 %
@@ -54,4 +52,17 @@ JSON         47 mins         ▓░░░░░░░░░░░░░░░░
 Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
-<!--END_SECTION:waka-->
+<!-- Total Time Coded -->
+<a href="https://wakatime.com/@0c2f7862-9823-4099-98a5-9f50e857da53">
+  <img src="https://wakatime.com/badge/user/0c2f7862-9823-4099-98a5-9f50e857da53.svg" alt="Total time coded" />
+</a>
+
+</div>
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamil-baldyga/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
