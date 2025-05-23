@@ -48,15 +48,13 @@ _Passionate about web technologies, crafting beautiful and functional applicatio
 
 ### ⏱️ Coding Stats
 
+<div align="center">
 <!-- Total Time Coded -->
 <a href="https://wakatime.com/@0c2f7862-9823-4099-98a5-9f50e857da53">
   <img src="https://wakatime.com/badge/user/0c2f7862-9823-4099-98a5-9f50e857da53.svg" alt="Total time coded" />
 </a>
 
-<div align="center">
-
 <!-- Weekly Breakdown -->
-
 ```txt
 JavaScript   16 hrs 24 mins  ████████████▒░░░░░░░░░░░░   49.06 %
 CSS          12 hrs 37 mins  █████████▒░░░░░░░░░░░░░░░   37.74 %
@@ -64,14 +62,13 @@ Bash         57 mins         ▓░░░░░░░░░░░░░░░░
 JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 Markdown     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
-
 </div>
 
 ### 🐱 Programming Partner
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="160" alt="Programming Cat" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="160" alt="Typing Cat" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" height="160" alt="Programming Cat" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="160" alt="Typing Cat" />
 </div>
 
 ### 🤝 Connect With Me
