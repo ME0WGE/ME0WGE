@@ -18,7 +18,7 @@ _Passionate about web technologies, crafting beautiful and functional applicatio
   - Next.js
 - **Backend Development:**
   - PHP
-  - Lavael
+  - Larvel
   - mySQL
 
 ### 🛠️ Technologies & Tools
