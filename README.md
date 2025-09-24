@@ -1,15 +1,3 @@
-<div align="center">
-  
-# ⚛️ Welcome to my universe, I'm Kamil!
-
-Frontend Developer | Expanding to Backend | Linux User
-
-_Passionate about web technologies, crafting beautiful and functional applications one line of code at a time_ ✨
-
-</div>
-
----
-
 ### 🌱 Currently Learning
 
 - **Frontend Development:**
